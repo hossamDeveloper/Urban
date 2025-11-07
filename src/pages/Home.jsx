@@ -28,13 +28,13 @@ const categories = [
     name: 'Jackets',
     description: 'Layer up with technical fabrics built for the city.',
     image:
-      'https://images.unsplash.com/photo-1525171254930-643fc658b64e?auto=format&fit=crop&w=1200&q=80',
+      'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1200&q=80',
   },
   {
     name: 'Pants',
     description: 'Versatile silhouettes engineered for motion.',
     image:
-      'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1200&q=80',
+      'https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBhbnRzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500',
   },
 ]
 
