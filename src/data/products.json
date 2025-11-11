@@ -4,7 +4,7 @@
     "name": "Urban Classic T-Shirt",
     "category": "T-Shirts",
     "price": 39.99,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://media.istockphoto.com/id/1286538907/photo/stylish-blonde-girl-wearing-black-t-shirt-and-glasses-posing-against-street-urban-clothing.webp?a=1&b=1&s=612x612&w=0&k=20&c=sLY-U0hSZhEtyb-OQnrCFINZNdidbZ2g-EzMLdVbBJY=",
     "description": "Premium cotton t-shirt with minimalist Urban Store logo.",
     "stock": 32
   },
@@ -13,7 +13,7 @@
     "name": "Metro Lines Tee",
     "category": "T-Shirts",
     "price": 34.5,
-    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "image": "https://media.istockphoto.com/id/827511198/photo/blue-and-white-stripped-sailor-style-t-shirt-isolated.webp?a=1&b=1&s=612x612&w=0&k=20&c=pnxcM51FJUD8UOScIRsCitamz8xNqhAQVZMi1lYMuOo=",
     "description": "Soft jersey tee inspired by subway line art.",
     "stock": 28
   },
@@ -22,7 +22,7 @@
     "name": "Neon Skyline Tee",
     "category": "T-Shirts",
     "price": 42,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1621951767587-b24334f11c65?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fFNreWxpbmUlMjBUZWUlMjBULVNoaXJ0fGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Glow-in-the-dark print featuring the Urban skyline.",
     "stock": 18
   },
@@ -31,7 +31,7 @@
     "name": "All-Weather Parka",
     "category": "Jackets",
     "price": 159,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://media.istockphoto.com/id/2159585233/photo/waterproof-raincoat-jacket-with-a-red-hood-isolated-on-a-white-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=KyDgOHFwexRgcmpNcSdTl9StQR7TZStnWBYJcra-mSg=",
     "description": "Water-resistant parka with hidden tech pockets.",
     "stock": 12
   },
@@ -40,7 +40,7 @@
     "name": "Night Rider Bomber",
     "category": "Jackets",
     "price": 129.99,
-    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=80",
+    "image": "https://media.istockphoto.com/id/2197107467/photo/black-suede-bomber-jacket.webp?a=1&b=1&s=612x612&w=0&k=20&c=3GazgUf0V_16gXiHN-S8vXD2pSj-SOy8e9IcZ9W7bKw=",
     "description": "Lightweight bomber with reflective panelling.",
     "stock": 20
   },
@@ -49,7 +49,7 @@
     "name": "City Breeze Windbreaker",
     "category": "Jackets",
     "price": 118.5,
-    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611308725032-74f0a551d018?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fENpdHklMjBCcmVlemUlMjBXaW5kYnJlYWtlciUyMGphY2tldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Packable windbreaker engineered for movement.",
     "stock": 25
   },
@@ -58,7 +58,7 @@
     "name": "Transit Utility Pants",
     "category": "Pants",
     "price": 88,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1746591847545-33d872de8411?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fFRyYW5zaXQlMjBVdGlsaXR5JTIwUGFudHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Stretch utility pants with modular storage.",
     "stock": 40
   },
@@ -67,7 +67,7 @@
     "name": "Midnight Denim",
     "category": "Pants",
     "price": 96.75,
-    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1584865288642-42078afe6942?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGFudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Selvedge denim with matte black hardware.",
     "stock": 22
   },
@@ -76,7 +76,7 @@
     "name": "Aero Flex Joggers",
     "category": "Pants",
     "price": 79.5,
-    "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?auto=format&fit=crop&w=900&q=80",
+    "image": "https://media.istockphoto.com/id/1224545469/photo/close-up-green-sport-pants-sweatpants-jogging-for-men-isolated-on-white-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=gaRLVMv8lGIcVG6SDdWPzOREumbF0V-ahrWBeBjjvIM=",
     "description": "Technical joggers with breathable mesh panels.",
     "stock": 36
   },
@@ -85,7 +85,7 @@
     "name": "Reflective Track Jacket",
     "category": "Jackets",
     "price": 142,
-    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "image": "https://plus.unsplash.com/premium_photo-1760179326321-987f88aadd0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFJlZmxlY3RpdmUlMjBUcmFjayUyMEphY2tldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
     "description": "High-visibility jacket for night rides.",
     "stock": 15
   },
@@ -94,7 +94,7 @@
     "name": "Urban Cargo Pants",
     "category": "Pants",
     "price": 92,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2FyZ28lMjBQYW50c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Tapered cargo pants with articulated knees.",
     "stock": 30
   },
@@ -103,7 +103,7 @@
     "name": "Skyline Patch Tee",
     "category": "T-Shirts",
     "price": 44,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFBhdGNoJTIwVGVlJTIwVC1zaGlydHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
     "description": "Limited edition tee with embroidered skyline patch.",
     "stock": 26
   }

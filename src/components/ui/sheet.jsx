@@ -49,11 +49,8 @@ const SheetHeader = ({ className, ...props }) => <div className={cn('grid gap-2 
 
 const SheetFooter = ({ className, ...props }) => <div className={cn('flex flex-col-reverse sm:flex-row sm:justify-end sm:space-x-2', className)} {...props} />
 
-const SheetTitle = React.forwardRef(({ className, ...props }, ref) => (
-  <DialogPrimitive.Title ref={ref} className={cn('text-lg font-semibold text-foreground', className)} {...props} />
-))
 
-SheetTitle.displayName = DialogPrimitive.Title.displayName
+
 
 const SheetDescription = React.forwardRef(({ className, ...props }, ref) => (
   <DialogPrimitive.Description ref={ref} className={cn('text-sm text-muted-foreground', className)} {...props} />
@@ -61,5 +58,5 @@ const SheetDescription = React.forwardRef(({ className, ...props }, ref) => (
 
 SheetDescription.displayName = DialogPrimitive.Description.displayName
 
-export { Sheet, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetTitle, SheetDescription }
+export { Sheet, SheetTrigger, SheetClose, SheetContent, SheetHeader, SheetFooter, SheetDescription }
 

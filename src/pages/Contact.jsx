@@ -171,7 +171,8 @@ export default function Contact() {
             <div className="rounded-[28px] border border-amber-500/30 bg-white/80 p-6 text-center text-amber-900">
               <h3 className="text-lg font-semibold">Prefer to DM?</h3>
               <p className="mt-2 text-sm text-amber-900/80">
-                Ping us on Instagram @urbanstore or WhatsApp +1 555 880 4400
+                Ping us on Instagram @urbanstore or WhatsApp +20 010 66 39
+                8472
               </p>
             </div>
           </motion.section>

@@ -22,7 +22,7 @@ const categories = [
     name: 'T-Shirts',
     description: 'Breathable essentials with a street-smart edge.',
     image:
-      'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=80',
+      'https://images.unsplash.com/photo-1716951984700-64ea15a06f13?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFQtU2hpcnRzfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500',
   },
   {
     name: 'Jackets',
@@ -34,7 +34,7 @@ const categories = [
     name: 'Pants',
     description: 'Versatile silhouettes engineered for motion.',
     image:
-      'https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBhbnRzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500',
+      'https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UGFudHN8ZW58MHwwfDB8fHww&auto=format&fit=crop&q=60&w=500',
   },
 ]
 
@@ -61,7 +61,7 @@ export default function Home() {
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1600&q=80"
+            src="https://images.unsplash.com/photo-1517940310602-26535839fe84?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vZGVsc3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
             alt="Urban streetwear"
             className="h-full w-full object-cover"
           />
